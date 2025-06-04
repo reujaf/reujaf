@@ -1,4 +1,4 @@
-👋 Hi, I’m @bsipahi
-👀 I’m interested in Flutter
-🌱 I’m currently learning AI Tools
+👋 Hi, I’m @bsipahi<br>
+👀 I’m interested in Flutter<br>
+🌱 I’m currently learning AI Tools<br>
 📫 How to reach me burakksipahi@gmail.com
